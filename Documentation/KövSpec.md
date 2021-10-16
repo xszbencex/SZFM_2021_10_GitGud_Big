@@ -32,16 +32,16 @@ Szükséges adatok:
 - A projektet ajánljuk valamilyen verziókezelő rendszer segítségével elkészíteni, a visszakövethetőség és az egyszerűbb csoportmunka miatt
 
 ***5. Jelenlegi üzleti folyamatok***<br>
-- 5.1. Koronavírus halálozási adatok hivatalos adatbázisból  =>  lekérés => elemzés 
-- 5.2. Lekért adatok feljegyzése =>  jelenleg az adatokból diagramok ábrázolása kézzel történik
+- **5.1.** Koronavírus halálozási adatok hivatalos adatbázisból  =>  lekérés => elemzés 
+- **5.2.** Lekért adatok feljegyzése =>  jelenleg az adatokból diagramok ábrázolása kézzel történik
 
 ***6. Igényelt üzleti folyamatok***<br>
-- 6.1. Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
-- 6.2. Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
-- 6.3 Adatok tisztitása
-- 6.4 Különböző típusú esetek csoportosítása
-- 6.5 Halálozási/megbetegedési/gyógyultsági ráta kiszámítása
-- 6.6 Előrejelzések készítése
+- **6.1.** Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
+- **6.2.** Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
+- **6.3.** Adatok tisztitása
+- **6.4.** Különböző típusú esetek csoportosítása
+- **6.5.** Halálozási/megbetegedési/gyógyultsági ráta kiszámítása
+- **6.6.** Előrejelzések készítése
 
 <img src="images/Igényelt_üzleti_folyamatok.png" data-canonical-src=""/>
 
@@ -59,8 +59,7 @@ Kérdőív irányított riporthoz:
 - Milyen ablakok legyenek a rendszerben? Kérem, adjon képernyő terveket!
 - Hallott már hasonló szolgáltatásról? Esetleg használja valamelyiket? Milyen tapasztalatai vannak?
 - Ön szerint szükség van egy ilyen rendszere?
-- Milyen költségei vannak a jelenlegi adatfeldolgozással kapcsolatban? Ön szerint csökkennének vagy nőnének ezek
-a költségek egy adatfeldolgozó és előrejelző rendszer esetén?
+- Milyen költségei vannak a jelenlegi adatfeldolgozással kapcsolatban? Ön szerint csökkennének vagy nőnének ezek a költségek egy adatfeldolgozó és előrejelző rendszer esetén?
 
 ***8. Követelménylista***<br>
 A statisztikai programban megjelenő funkciók táblázatba foglalása és al-funkciók leírása.
