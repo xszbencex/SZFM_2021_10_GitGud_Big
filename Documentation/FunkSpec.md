@@ -37,7 +37,14 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 
   
 ***5. Igényelt üzleti folyamatok modellje***<br>
+- **6.1.** Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
+- **6.2.** Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
+- **6.3.** Adatok tisztitása
+- **6.4.** Különböző típusú esetek csoportosítása
+- **6.5.** Halálozási/megbetegedési/gyógyultsági ráta kiszámítása
+- **6.6.** Előrejelzések készítése
 
+<img src="images/Igényelt_üzleti_folyamatok.png" data-canonical-src=""/>
   
 
 ***6. Használati esetek***<br>
