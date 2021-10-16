@@ -49,3 +49,20 @@ Az űrlap egyszerűsített tervezete okostelefon képernyőn:<br>
 Futási időben két szereplő figyelhető meg. Az
 első szereplő maga a futó ALKALMAZÁS. (weben/androidon)
 Ezzel van interakcióban a második szereplő, maga a FELHASZNÁLÓ, aki ...
+
+***9. Fogalomszótár***<br>
+**Mesterséges intelligencia** - lehetővé teszi a technika számára, hogy érzékelje környezetét, foglalkozzon azzal, amit észlel, problémákat oldjon meg, és konkrét cél elérése érdekében tervezze meg lépéseit. A számítógép nemcsak adatokat fogad (már előkészített vagy összegyűjtött adatokat érzékelőin, például kameráján keresztül), hanem fel is dolgozza azokat és reagál rájuk.
+
+**Gépi tanulás** - a mesterséges intelligencia olyan ága, olyan rendszerekkel foglalkoznak, melyek tanulni képesek, azaz tapasztalatokból tudást generálnak. A gyakorlatban ez azt jelenti, hogy a rendszer példa adatok, minták alapján képes önállóan, vagy emberi segítséggel szabályszerűségeket/szabályokat felismerni/meghatározni.
+
+**Mély tanulás** - a gépi tanulási technikák egy alcsoportja, amiben mesterséges neurális hálózatokat (Neural Networks) használunk.
+
+**Adat** - tények, fogalmak olyan megjelenési formája, amely alkalmas emberi eszközökkel történő értelmezésre, feldolgozásra, továbbításra. 
+
+**Adathalmaz** - információk összessége, sokasága. 
+
+**Adatelemzés** - meglévő adatok feldolgozása, értelmezése, összekapcsolása.
+
+**Predikcíó** - a már megismert és bizonyított törvényszerűségekből levonható következtetéseken alapuló előrejelzés, jóslat.
+
+**Inicializáció** - kezdőértékek meghatározása.
