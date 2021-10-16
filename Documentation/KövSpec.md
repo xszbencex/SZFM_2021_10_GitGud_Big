@@ -39,7 +39,7 @@ Szükséges adatok:
 - 6.1. Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
 - 6.2. Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
 
-<img src="images/index.png" data-canonical-src=""/>
+<img src="" data-canonical-src=""/>
 
 ***7. Riportok***<br>
 Kérdőív irányított riporthoz:
