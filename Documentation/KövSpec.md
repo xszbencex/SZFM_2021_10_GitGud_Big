@@ -19,6 +19,7 @@ Szükséges adatok:
 ***3. Vágyálom rendszer***<br>
 - Az előrejelzéseket egy adott országra le lehessen kérdezni.
 - Ezen felül oszlopdiagramos, kördiagramos, vonaldiagramos megjelenítés preferált.
+- Különböző típusú esetek csoportosítása.
 - Elvárás hogy a megjelenő adatok egy laikus számára is jól átteknithetőek és érthetőek legyenek.
 
 ***4. A rendszerre vonatkozó szabályok***<br>
@@ -38,9 +39,7 @@ Szükséges adatok:
 - 6.1. Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
 - 6.2. Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
 
-
-<img src="" data-canonical-src="" width="909" height="521" />
-
+<img src="images/index.png" data-canonical-src=""/>
 
 ***7. Riportok***<br>
 Kérdőív irányított riporthoz:
