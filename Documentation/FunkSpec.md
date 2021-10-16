@@ -13,6 +13,7 @@ Szükséges adatok:
 ***2. Jelenlegi helyzet***<br>
  A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni.
 
+
 ***3. Követelménylista***<br>
 A statisztikai programban megjelenő funkciók táblázatba foglalása és al-funkciók leírása.
 
