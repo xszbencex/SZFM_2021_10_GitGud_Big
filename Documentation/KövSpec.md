@@ -13,14 +13,16 @@ Szükséges adatok:
 
 
 ***2. Jelenlegi helyzet***<br>
-- A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni.
+- A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni. A járvány kiszámíthatatlansága rettegésben tartja az embereket, nehezíti az előre tervezést, hiszen a korlátozó intézkedések miatt lecsökken a mozgásterünk, alkalmazkodnunk kell a pandémiához. Az eddig feljegyzett adatok alapján, gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány helyel-közel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen elemzések elvégzésével a cég hozzájárul a pandémiás időszak könnyebb átvészeléséhez.
 
 
 ***3. Vágyálom rendszer***<br>
+- Ne csak egy, hanem minél több országra vonatkozóan történjen az adatfeldolgozás.
 - Az előrejelzéseket egy adott országra le lehessen kérdezni.
+- Fertőzések, megbetegedések, gyógyulások, halálozások gyakoriságát heti vagy havi lebontásban kezelni.
 - Ezen felül oszlopdiagramos, kördiagramos, vonaldiagramos megjelenítés preferált.
 - Különböző típusú esetek csoportosítása.
-- Elvárás hogy a megjelenő adatok egy laikus számára is jól átteknithetőek és érthetőek legyenek.
+- Elvárás, hogy a megjelenő adatok egy laikus számára is jól átteknithetőek és érthetőek legyenek.
 
 ***4. A rendszerre vonatkozó szabályok***<br>
 - Megbízható, hiteles adatbázisból származó adatokból kell az elemzést elkészíteni. (pl. WHO)
