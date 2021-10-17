@@ -32,11 +32,14 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 
 
 ***4. Jelenlegi üzleti folyamatok modellje***<br>
-
- 
-
-
-  
+Jelenleg a papíralapú számításokkal és kézzel történő digaramrajzolásokkal kevésbé hatékony és szemléletes az adatok kezelése és megjelenítése. A cég szeretne olyan adatfeldolgozást végezni, és az adatokat oly módon megjeleníteni, amiből egyértelműen látszik, hogy a koronavírus járványnak milyen pusztító hatásai vannak világszerte. Mélytanuló algoritmusok alkalmazásával pedig a jövőre vonatkozólag is adna egy lehetséges képet arról, hogy a járványnak milyen további hatásai lehetnek az emberiségre. Ennek érdekében az alábbiak kerülnének leváltásra, illetve kibővítésre:
+- **5.1.** Koronavírus halálozási adatok hivatalos adatbázisból  =>  lekérés => elemzés 
+- **5.2.** Lekért adatok feljegyzése =>  jelenleg az adatokból diagramok ábrázolása kézzel történik
+- **5.3.** Több országból történő adatletöltés => Jelenleg lokálisan érkező adatok esetén nem lehet használható eredményt elérni, mivel dinamikusan történik a változás világviszonylatban
+- **5.4.** Sok dimenziós adattábla használata csak a szükséges oszlopok felhasználásával (gyógyultak, betegek, halálozások, stb.) => jelenleg minden oszlop adatai kezelésre kerülnek, így az adatvizualizáció túl bonyolult, dimenziócsökkentés javasolt
+- **5.5.** Statisztikai számítások (összegzés, eloszlás, maximum számítás, stb.) elvégzése beépített függvények segítségével => jelenleg papír alapú számítások
+- **5.6.** Meglévő, feljegyzett adatokból egy tanuló modell felépítése, ami képes a jövőre vonatkozólag hiteles becslések számítására, azaz prediktálások elvégzésére => jelenleg csak a meglévő adatok állnak rendelkezésre, előrejelzés készítése bonyolult és körülményes 
+   
 ***5. Igényelt üzleti folyamatok modellje***<br>
 - **6.1.** Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
 - **6.2.** Elemzett adatok tovább vizsgálata => előrejelzés készítése egy adott országra vonatkozóan
