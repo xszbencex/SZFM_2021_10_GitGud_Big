@@ -31,3 +31,17 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | Fejlesztés | Google Colab | 1 | 12 | 12 | 12 | 0 |
 | Tesztelés | | 1 | 16 | 16 | 10 | 6 |
 | Értékelés | | ? | ? | ? | ? | ? |
+
+***3. Üzleti folyamatok modellje***<br>
+
+***4. Követelmények***<br>
+
+***5. Funkcionális terv***<br>
+
+***6. Fizikai környezet***<br>
+  
+- A rendszer Android és web platformon, hordozható eszközökön (okostelefonok, táblagépek) futtatható.
+- Az összes elterjedt webböngészőn (Firefox, Chrome, Edge, Opera) megfelelően működik.
+- Nincsenek megvásárolt komponenseink.
+- Fejlesztői eszközök:
+  - Google Colab
