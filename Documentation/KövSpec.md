@@ -34,6 +34,10 @@ Szükséges adatok:
 ***5. Jelenlegi üzleti folyamatok***<br>
 - **5.1.** Koronavírus halálozási adatok hivatalos adatbázisból  =>  lekérés => elemzés 
 - **5.2.** Lekért adatok feljegyzése =>  jelenleg az adatokból diagramok ábrázolása kézzel történik
+- **5.3.** Több országból történő adatletöltés => Jelenleg lokálisan érkező adatok esetén nem lehet használható eredményt elérni, mivel dinamikusan történik a változás világviszonylatban
+- **5.4.** Sok dimenziós adattábla használata csak a szükséges oszlopok felhasználásával (gyógyultak, betegek, halálozások, stb.) => jelenleg minden oszlop adatai kezelésre kerülnek, így az adatvizualizáció túl bonyolult, dimenziócsökkentés javasolt
+- **5.5.** Statisztikai számítások (összegzés, eloszlás, maximum számítás, stb.) elvégzése beépített függvények segítségével => jelenleg papír alapú számítások
+- **5.6.** Meglévő, feljegyzett adatokból egy tanuló modell felépítése, ami képes a jövőre vonatkozólag hiteles becslések számítására, azaz prediktálások elvégzésére => jelenleg csak a meglévő adatok állnak rendelkezésre, előrejelzés készítése bonyolult és körülményes 
 
 ***6. Igényelt üzleti folyamatok***<br>
 - **6.1.** Egy olyan felület amely beolvassa az adatbázis adatait => adatfeldolgozás => elemzés => adatok kirajzolása programmal (diagramok)
