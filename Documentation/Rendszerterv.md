@@ -59,5 +59,6 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 ***12. Telepítési terv***<br>
 **Webes alkalmazás:**
     A szoftver webes felületéhez csak egy ajánlott böngésző telepítése szükséges (Google Chrome, Firefox, Opera, Safari) illetve egy Google fiókos regisztráció, külön szoftver nem kell hozzá. A weboldalra közvetlenül az internetről kapcsolódnak rá a kliensek.
+    
 **Mobil alkalmazás:**
     A szoftver hordozható eszközökön (okostelefonok, táblagépek) történő futtatásához a Google Colab Androidos webnézegető alkalmazásának letöltése javasolt, illetve egy érvényes Google fiók. Az alkalmazás lehetővé teszi a Google Colab használatát, reklám- és hirdetésmentesen.
