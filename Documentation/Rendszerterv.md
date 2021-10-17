@@ -11,4 +11,23 @@ Szükséges adatok:
 - Halálesetek száma
 - Gyógyultak száma
 
+***2. Projektterv***<br>
+**Projekt munkatársak és felelőségek:**
 
+Backend munkálatok: 
+- Pete Balázs
+- Szabó Bence
+- Szimeonov Viktória
+- Tóth Csenge Beatrix
+- Tóth Zoltán
+
+Feladatuk a funkciók létrehozása és megvalósítása.
+
+| Funkció / Story | Feladat / Task | Prioritás | Becslés | Aktuális becslés | Eltelt idő | Hátralévő idő |
+|-----------------|----------------|-----------|---------|------------------|------------|---------------|
+| Követelmény specifikáció | | 0 | 12 | 12 | 12 | 0 |
+| Funkcionális specifikáció | | 0 | 12 | 12 | 12 | 0 |
+| Rendszerterv | | 0 | 16 | 16 | 16 | 0 |
+| Fejlesztés | Google Colab | 1 | 12 | 12 | 12 | 0 |
+| Tesztelés | | 1 | 16 | 16 | 10 | 6 |
+| Értékelés | | ? | ? | ? | ? | ? |
