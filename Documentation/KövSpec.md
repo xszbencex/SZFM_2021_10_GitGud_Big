@@ -28,6 +28,8 @@ Szükséges adatok:
 - Megbízható, hiteles adatbázisból származó adatokból kell az elemzést elkészíteni. (pl. WHO)
 - Az eredmények reprodukálhatóak és könnyedén bővíthetőek legyenek.
 - Legyen százalékos megjelenítés is.
+- Az adathalmaz megtisztítása.
+- Tanító és teszt komponensekre, adathalmazokra való felosztás biztosítása.
 - Ha weboldalon lesz a statistikai kimutatás, akkor a weboldal az összes elterjedt webböngészőn (Firefox, Chrome, Edge, Opera) igényesen nézzen ki és működjön megfelelően. A weboldal legyen modern, de egyszerű hogy a hozzá nem értők is értelmezni tudják a végkimenetelt.
 - Elavult (deprecated) technológiákat kérjük ne használjanak, az időtállóság miatt
 - A képek nagy felbontásúak legyenek, vízjel nélkül és png vagy jpg formátumúak
