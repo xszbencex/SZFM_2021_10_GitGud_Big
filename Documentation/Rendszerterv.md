@@ -74,6 +74,7 @@ FELHASZNÁLÓ:
   - Google Colab
 
 ***7. Architektúrális terv***<br>
+  ![uml_diagram](images/uml_diagram.png)
 
 ***8. Adatbázis terv***<br>
 
