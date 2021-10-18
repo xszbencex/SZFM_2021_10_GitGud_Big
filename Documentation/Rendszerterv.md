@@ -39,7 +39,7 @@ Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
 - Funkcionális követelmények:
   - Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer.
   - Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás
-  - Választási lehetőség, hogy melyik orságra szeretnénk előrejelzést készíteni.
+  - Választási lehetőség, hogy melyik országra szeretnénk előrejelzést készíteni.
 - Nem funkcionális követelmények:
   - A rendszer minimális válaszidőn belül feldolgozza az adatokat.
   - Biztonságos működés.
