@@ -50,6 +50,20 @@ Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
   - GDPR-nak, ÁSZF-nek való megfelelés.
 
 ***5. Funkcionális terv***<br>
+**<ins>Rendszer szereplők:<ins>**
+- Admin
+- Felhasználó
+
+**<ins>Rendszerhasználati esetek és lefutásaik:<ins>**<br>
+ADMIN:
+- Beléphet bármilyen szereplőként teljes hozzáférése van a rendszerhez
+- Tesztek létrehozása, törlése, módosítása
+
+FELHASZNÁLÓ:
+- Képes beállítani, hogy melyik országra legyen előrejelzés a koronavírus megbetegedések számára.
+- Képes kirajzoltatni a preferált beállításoknak megfelelő diagrammokat.
+- Képes megjeleníteni a preferált adathalmazt.
+
 
 ***6. Fizikai környezet***<br>
   
