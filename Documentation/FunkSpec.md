@@ -63,7 +63,7 @@ hogy az egész rendszerhez van hozzáférése.
 ***7. Képernyő tervezete***<br>
 
 Az űrlap egyszerűsített tervezete okostelefon képernyőn:<br>
-<img src="" data-canonical-src="" width="445" height="681" />
+<img src="images/screen_design.png" data-canonical-src="" width="445" height="681" />
 
  
  ***8. Forgatókönyv***<br><br>
