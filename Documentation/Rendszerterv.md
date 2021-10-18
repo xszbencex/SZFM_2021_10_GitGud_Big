@@ -35,6 +35,19 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 ***3. Üzleti folyamatok modellje***<br>
 
 ***4. Követelmények***<br>
+Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
+- Funkcionális követelmények:
+  - Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer.
+  - Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás
+  - Választási lehetőség, hogy melyik orságra szeretnénk előrejelzést készíteni.
+- Nem funkcionális követelmények:
+  - A rendszer minimális válaszidőn belül feldolgozza az adatokat.
+  - Biztonságos működés.
+  - Könnyű karbantarthatóság.
+  - Működőképesség, használhatóság.
+  - Adatok megbízhatósága és rendelkezésre állása.
+- Törvényi előírások, szabványok:
+  - GDPR-nak, ÁSZF-nek való megfelelés.
 
 ***5. Funkcionális terv***<br>
 
