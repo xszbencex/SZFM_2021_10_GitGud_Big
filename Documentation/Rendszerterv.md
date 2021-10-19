@@ -28,7 +28,20 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | Követelmény specifikáció | | 0 | 12 | 12 | 12 | 0 |
 | Funkcionális specifikáció | | 0 | 12 | 12 | 12 | 0 |
 | Rendszerterv | | 0 | 16 | 16 | 16 | 0 |
-| Fejlesztés | Google Colab | 1 | 12 | 12 | 12 | 0 |
+| Fejlesztés | Google Colab | 1 | 2 | 2 | 2 | 0 |
+| Fejlesztés | Adathalmaz keresése/választása | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Szükséges könyvtárak/csomagok importálása | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Adathalmaz importálása, annak tesztelése, tisztítása | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Különböző típusú esetek csoportosítása (egy konkrét vagy több eset választása) | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | A heti emelkedések elkülönítése | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Megbetegedett és halálesetek számának heti növekedése | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Országonkénti halálozási ráta kiszámítása | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Adatok elemzése egy vagy több konkrét ország esetén | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Model létrehozása | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Model létrehozása konvoluciós háló segítségével | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Idősoros elemzés a pontos adatok megszerzéséhez | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | A modell inicializálása, amely előrejelzést és előrejelzést tartalmaz | 1 | 6 | 6 | 0 | 0 |
+| Fejlesztés | Eredménymentés | 1 | 6 | 6 | 0 | 0 |
 | Tesztelés | | 1 | 16 | 16 | 10 | 6 |
 | Értékelés | | ? | ? | ? | ? | ? |
 
