@@ -101,6 +101,7 @@ FELHASZNÁLÓ:
 <img src="images/dataset.png" data-canonical-src=""/>
 
 ***9. Implementációs terv***<br>
+A rendszerünk főként Python nyelven fog készülni. Ezeket a programrészeket, amennyire csak lehet külön boxokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. Képes lesz feldolgozni egy vagy több adathalmazt, és a benne tárolt adatok alapján előrejelzéseket készíteni a felületen.
 
 ***10. Karbantartási terv***<br>
 
