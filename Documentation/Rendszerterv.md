@@ -77,7 +77,17 @@ FELHASZNÁLÓ:
   ![uml_diagram](images/uml_diagram.png)
 
 ***8. Adatbázis terv***<br>
-<img src="images/dataset.png" data-canonical-src="" />
+| Column Name / Oszlop neve| Description / Leírás | Data type / Adattípus | 
+|--------------------------|----------------------|-----------------------|
+|ObservationDate| Adott megfigyelés dátuma | object |
+|Province/State| Adott állam megnevezése | object |
+|Country/Region| Adott ország/ régió megnevezése| object |
+|Last Update| Utolsó frissítés dátuma | object |
+|Confirmed| Megbetegedt lakosok száma| float64|
+|Deaths| Halálesetek száma|float64|
+|Recovered| Gyógyultak száma|float64|
+
+<img src="images/dataset.png" data-canonical-src=""/>
 
 ***9. Implementációs terv***<br>
 
