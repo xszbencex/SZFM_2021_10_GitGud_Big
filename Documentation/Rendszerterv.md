@@ -77,6 +77,7 @@ FELHASZNÁLÓ:
   ![uml_diagram](images/uml_diagram.png)
 
 ***8. Adatbázis terv***<br>
+<img src="images/dataset.png" data-canonical-src="" />
 
 ***9. Implementációs terv***<br>
 
