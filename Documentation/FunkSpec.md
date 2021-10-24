@@ -69,7 +69,8 @@ A statisztika egyszerűsített tervezete:<br>
  **Szereplők:**<br><br>
 Futási időben két szereplő figyelhető meg. Az
 első szereplő maga a futó ALKALMAZÁS. (weben/androidon)
-Ezzel van interakcióban a második szereplő, maga a FELHASZNÁLÓ, aki ...
+Ezzel van interakcióban a második szereplő, maga a FELHASZNÁLÓ, aki hozzáfér a beolvasott adatokhoz.
+Ha szükséges akkor a statisztikai adatokat le tudja olvasni, más esetben pedig a predikciókhoz is hozzáfér.
 
 ***9. Fogalomszótár***<br>
 **Mesterséges intelligencia** - lehetővé teszi a technika számára, hogy érzékelje környezetét, foglalkozzon azzal, amit észlel, problémákat oldjon meg, és konkrét cél elérése érdekében tervezze meg lépéseit. A számítógép nemcsak adatokat fogad (már előkészített vagy összegyűjtött adatokat érzékelőin, például kameráján keresztül), hanem fel is dolgozza azokat és reagál rájuk.
@@ -82,8 +83,14 @@ Ezzel van interakcióban a második szereplő, maga a FELHASZNÁLÓ, aki ...
 
 **Adathalmaz** - információk összessége, sokasága. 
 
+**Adatmodell** - a logikai adatbázis szerkezeti leírását foglalja magába, nevezetesen azonos jellemzőjű információk logikai modellezését a rajtuk végezhető logikai műveletek meghatározását tartalmazza.
+
 **Adatelemzés** - meglévő adatok feldolgozása, értelmezése, összekapcsolása.
 
 **Predikcíó** - a már megismert és bizonyított törvényszerűségekből levonható következtetéseken alapuló előrejelzés, jóslat.
 
 **Inicializáció** - kezdőértékek meghatározása.
+
+**Plot** - adatok kirajzolása pl grafikonok segítségével.
+
+**Regresszió** - két vagy több véletlen változó között fennálló kapcsolatot modellezzi, tulajdonságai alapján lehet lineáris vagy nemlineáris.
