@@ -118,6 +118,8 @@ A Python legelterjedtem moduljait használjuk.
 - Valamint a numpy a tömbök kezelésében segít
 
 ***10. Karbantartási terv***<br>
+A rendszer folyamatos karbantartására nincsen szükség. A kiadást követő felmerülő hibákat javítjuk. Ellenőrizni kell, hogy frissebb webböngészőkön is jól működik a program.
+
 
 ***11. Tesztterv***<br>
 
