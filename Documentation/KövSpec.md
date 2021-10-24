@@ -15,12 +15,13 @@ Szükséges adatok:
  A fejlesztés a Google Colab segítségével fog zajlani, amely szolgáltatja a megfelelő Python modulokat, futtató környezetet és a könnyű megosztást
 
 ***2. Jelenlegi helyzet***<br>
-- A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni. A járvány kiszámíthatatlansága rettegésben tartja az embereket, nehezíti az előre tervezést, hiszen a korlátozó intézkedések miatt lecsökken a mozgásterünk, alkalmazkodnunk kell a pandémiához. Az eddig feljegyzett adatok alapján, gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány helyel-közel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen elemzések elvégzésével a cég hozzájárul a pandémiás időszak könnyebb átvészeléséhez.
+- A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni. A járvány kiszámíthatatlansága rettegésben tartja az embereket, nehezíti az előre tervezést, hiszen a korlátozó intézkedések miatt lecsökken a mozgásterünk, alkalmazkodnunk kell a pandémiához. Az eddig feljegyzett adatok alapján, gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány hellyel-közzel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen elemzések elvégzésével a cég hozzájárul a pandémiás időszak könnyebb átvészeléséhez.
 
 
 ***3. Vágyálom rendszer***<br>
 - Ne csak egy, hanem minél több országra vonatkozóan történjen az adatfeldolgozás.
 - Az előrejelzéseket egy adott országra le lehessen kérdezni.
+- Több adathalmazból is dolgozzunk. A különböző esetek száma térjen el az adathalmazoknál, ezáltal szerteágazóbb kimutatás készülhet.
 - Fertőzések, megbetegedések, gyógyulások, halálozások gyakoriságát heti vagy havi lebontásban kezelni.
 - Ezen felül oszlopdiagramos, kördiagramos, vonaldiagramos megjelenítés preferált.
 - Különböző típusú esetek csoportosítása.
@@ -36,6 +37,8 @@ Szükséges adatok:
 - Elavult (deprecated) technológiákat kérjük ne használjanak, az időtállóság miatt
 - A képek nagy felbontásúak legyenek, vízjel nélkül és png vagy jpg formátumúak
 - A projektet ajánljuk valamilyen verziókezelő rendszer segítségével elkészíteni, a visszakövethetőség és az egyszerűbb csoportmunka miatt
+- A programot kötelező pythonban megírni.
+- A projekt elkészítéséhez a Google Colab-ot ajánljuk, de sajátgépes környezetben is folyhat a fejlesztés.
 
 ***5. Jelenlegi üzleti folyamatok***<br>
 - **5.1.** Koronavírus halálozási adatok hivatalos adatbázisból  =>  lekérés => elemzés 
