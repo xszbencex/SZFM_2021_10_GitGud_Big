@@ -1,7 +1,8 @@
 # Rendszerterv
 
 ***1. A rendszer célja***<br>
-A rendszer célja felmérni a koronavírus helyzetet, és a statisztikák alapján előrejelzéseket készíteni. A statisztikai adatokat a WHO felmérései szolgáltatják. Az előrejelzéseket egy megfelelő algoritmus kell, hogy biztosítja a meglévő adatokból. Gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány helyel-közel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen kívül szükséges az adatokat megjeleníteni gráfok, oszlopdiagrammok, kördiagrammok formájában.  
+A rendszer célja felmérni a koronavírus helyzetet, és a statisztikák alapján előrejelzéseket készíteni. A statisztikai adatokat a WHO felmérései szolgáltatják. Az előrejelzéseket egy megfelelő algoritmus kell, hogy biztosítja a meglévő adatokból. Gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány hellyel-közzel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen kívül szükséges az adatokat megjeleníteni gráfok, oszlopdiagrammok, kördiagrammok formájában. Az előrejelzés az összes országra és külön Indiára is elkészül. 
+
 Szükséges adatok: 
 - Megfigyelés dátuma
 - Állam
@@ -10,6 +11,9 @@ Szükséges adatok:
 - Megbetegedt lakosok száma
 - Halálesetek száma
 - Gyógyultak száma
+
+A fejlesztés a Google Colab segítségével fog zajlani, amely szolgáltatja a megfelelő Python modulokat, futtató környezetet és a könnyű megosztást. A kód Pythonban íródik és a legismertebb modulokat használja (pl. matplotlib, numpy).
+A rendszer a weben lesz elérhető, így bármilyen böngészővel rendelkező eszközön használató.
 
 ***2. Projektterv***<br>
 **Projekt munkatársak és felelőségek:**
@@ -46,6 +50,8 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | Értékelés | | ? | ? | ? | ? | ? |
 
 ***3. Üzleti folyamatok modellje***<br>
+
+<img src="images/Igényelt_üzleti_folyamatok.png" data-canonical-src=""/>
 
 ***4. Követelmények***<br>
 Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
