@@ -80,14 +80,12 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 |   Modul   | ID |         Név         | Kifejtés |
 |-----------|----|---------------------|----------|
 |Elemző rendszer         | K1 | Adatok | Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer. |
-|Elemző rendszer         | K2 | Adatfeldolgozás | Az adatbázisból szükséges adatok: Világ országai, adott ország lakosainak létszáma,  országonkénti megbetegedések száma heti rendszerességgel, országonkénti gyógyultak száma heti rendszerességgel, országonkénti tesztelések száma heti rendszerességgel, országonkénti pozitív tesztesetek száma, megbetegedő lakosok átlag életkora. |
-|Elemző rendszer         | K3 | Előrejelzés | Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás |
-|Elemző rendszer         | K4 |  Előrejelzés | Indiára külön előrejelzést és statisztikát kell készíteni|
+|Elemző rendszer         | K2 | Adatok | Az adathalmazt meg kell tisztítani |
+|Elemző rendszer         | K3 | Adatfeldolgozás | Az adatbázisból szükséges adatok: Világ országai, adott ország lakosainak létszáma,  országonkénti megbetegedések száma heti rendszerességgel, országonkénti gyógyultak száma heti rendszerességgel, országonkénti tesztelések száma heti rendszerességgel, országonkénti pozitív tesztesetek száma, megbetegedő lakosok átlag életkora. |
+|Elemző rendszer         | K4 | Előrejelzés | Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás |
+|Elemző rendszer         | K5 |  Előrejelzés | Indiára külön előrejelzést és statisztikát kell készíteni|
 |Felület       | K6 | Statisztika | Oszlopdiagramok, táblázatok és vonaldiagramok segítségével az adatok ábrázolása |
 |Felület       | K7 |...  |...|
-|Felület       | K8 |...   |...|
-|Felület       | K9 |...|...|
-|Felület       | K10 |... |...|
 
 ***9. Fogalomszótár***<br>
 **Mesterséges intelligencia** - lehetővé teszi a technika számára, hogy érzékelje környezetét, foglalkozzon azzal, amit észlel, problémákat oldjon meg, és konkrét cél elérése érdekében tervezze meg lépéseit. A számítógép nemcsak adatokat fogad (már előkészített vagy összegyűjtött adatokat érzékelőin, például kameráján keresztül), hanem fel is dolgozza azokat és reagál rájuk.

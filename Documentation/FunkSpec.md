@@ -1,7 +1,7 @@
 # Koronavírus statisztikai előrejelző rendszer funkcionális specifikáció
 
 ***1. Áttekintés***<br>
-A projekt célja felmérni a koronavírus helyzetet, és a statisztikák alapján előrejelzéseket készíteni. A statisztikai adatokat a WHO felmérései szolgáltatják. Az előrejelzéseket egy megfelelő algoritmus kell, hogy biztosítja a meglévő adatokból. Ezen kívül szükséges az adatokat megjeleníteni gráfok, oszlopdiagrammok, kördiagrammok formájában. 
+A projekt célja felmérni a koronavírus helyzetet, és a statisztikák alapján előrejelzéseket készíteni. A statisztikai adatokat a WHO felmérései szolgáltatják. Az előrejelzéseket egy megfelelő algoritmus kell, hogy biztosítja a meglévő adatokból. Ezen kívül szükséges az adatokat megjeleníteni gráfok, oszlopdiagrammok, kördiagrammok formájában. Az előrejelzés az összes országra és külön Indiára is elkészül. Az adatok megjelenítését diagramok és táblázatok segítik.
 
 Szükséges adatok: 
 - Megfigyelés dátuma
@@ -11,6 +11,8 @@ Szükséges adatok:
 - Megbetegedt lakosok száma
 - Halálesetek száma
 - Gyógyultak száma
+
+ A fejlesztés a Google Colab segítségével fog zajlani, amely szolgáltatja a megfelelő Python modulokat, futtató környezetet és a könnyű megosztást. A kód Pythonban íródik és a legismertebb modulokat használja (pl. matplotlib, numpy).
 
 ***2. Jelenlegi helyzet***<br>
  A **HealthLab Kft.** Magyarországon az egyik legnagyobb teszteléssel és adatfeldolgozással foglalkozó cég, amely szeretne felmérést készíteni a koronavírus járvány adataiból és előrejelzéseket készíteni. A járvány kiszámíthatatlansága rettegésben tartja az embereket, nehezíti az előre tervezést, hiszen a korlátozó intézkedések miatt lecsökken a mozgásterünk, alkalmazkodnunk kell a pandémiához. Az eddig feljegyzett adatok alapján, gépi tanuló algoritmusok segítségével elemezni tudjuk, hogy a fertőzésveszély, a járvány helyel-közel mikorra érheti el a tetőzést, milyen gyorsan terjedhet. Ezen információkat a feljegyzett megbetegedésekből, kigyógyulásokból illetve halálesetekből tudja kikövetkeztetni a rendszer. Ezen elemzések elvégzésével a cég hozzájárul a pandémiás időszak könnyebb átvészeléséhez.
@@ -22,15 +24,12 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 |   Modul   | ID |         Név         | Kifejtés |
 |-----------|----|---------------------|----------|
 |Elemző rendszer         | K1 | Adatok | Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer. |
-|Elemző rendszer         | K2 | Adatfeldolgozás | Az adatbázisból szükséges adatok: Világ országai, adott ország lakosainak létszáma,  országonkénti megbetegedések száma heti rendszerességgel, országonkénti gyógyultak száma heti rendszerességgel, országonkénti tesztelések száma heti rendszerességgel, országonkénti pozitív tesztesetek száma, megbetegedő lakosok átlag életkora. |
-|Elemző rendszer         | K3 | Előrejelzés | Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás |
-|Elemző rendszer         | K4 |  ... |...|
-|Jogi szabályok| K5 |Jogi nyilatkozatok   |Adatvédelmi nyilatkozat, GDPR, ASZF, szükség esetén Cookie szabályzat feltüntetése a weblapon. (?) |
-|Felület       | K6 | ... |...|
-|Felület       | K7 |...  |...|
-|Felület       | K8 |...   |...|
-|Felület       | K9 |...|...|
-|Felület       | K10 |... |...|
+|Elemző rendszer         | K2 | Adatok | Az adathalmazt meg kell tisztítani |
+|Elemző rendszer         | K3 | Adatfeldolgozás | Az adatbázisból szükséges adatok: Világ országai, adott ország lakosainak létszáma,  országonkénti megbetegedések száma heti rendszerességgel, országonkénti gyógyultak száma heti rendszerességgel, országonkénti tesztelések száma heti rendszerességgel, országonkénti pozitív tesztesetek száma, megbetegedő lakosok átlag életkora. |
+|Elemző rendszer         | K4 | Előrejelzés | Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás |
+|Elemző rendszer         | K5 | Előrejelzés | Indiára külön előrejelzést és statisztikát kell készíteni|
+|Felület       | K6 | Statisztika | Adatok megjelnítése eszlopdiagramok, táblázatok és vonaldiagramok segítségével |
+|Felület       | K7 | ... |...|
 
 
 ***4. Jelenlegi üzleti folyamatok modellje***<br>
