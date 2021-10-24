@@ -82,9 +82,8 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 |Elemző rendszer         | K1 | Adatok | Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer. |
 |Elemző rendszer         | K2 | Adatfeldolgozás | Az adatbázisból szükséges adatok: Világ országai, adott ország lakosainak létszáma,  országonkénti megbetegedések száma heti rendszerességgel, országonkénti gyógyultak száma heti rendszerességgel, országonkénti tesztelések száma heti rendszerességgel, országonkénti pozitív tesztesetek száma, megbetegedő lakosok átlag életkora. |
 |Elemző rendszer         | K3 | Előrejelzés | Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás |
-|Elemző rendszer         | K4 |  ... |...|
-|Jogi szabályok| K5 |Jogi nyilatkozatok   |Adatvédelmi nyilatkozat, GDPR, ASZF, szükség esetén Cookie szabályzat feltüntetése a weblapon. (?) |
-|Felület       | K6 | ... |...|
+|Elemző rendszer         | K4 |  Előrejelzés | Indiára külön előrejelzést és statisztikát kell készíteni|
+|Felület       | K6 | Statisztika | Oszlopdiagramok, táblázatok és vonaldiagramok segítségével az adatok ábrázolása |
 |Felület       | K7 |...  |...|
 |Felület       | K8 |...   |...|
 |Felület       | K9 |...|...|
@@ -101,8 +100,14 @@ A statisztikai programban megjelenő funkciók táblázatba foglalása és al-fu
 
 **Adathalmaz** - információk összessége, sokasága. 
 
+**Adatmodell** - a logikai adatbázis szerkezeti leírását foglalja magába, nevezetesen azonos jellemzőjű információk logikai modellezését a rajtuk végezhető logikai műveletek meghatározását tartalmazza.
+
 **Adatelemzés** - meglévő adatok feldolgozása, értelmezése, összekapcsolása.
 
 **Predikcíó** - a már megismert és bizonyított törvényszerűségekből levonható következtetéseken alapuló előrejelzés, jóslat.
 
 **Inicializáció** - kezdőértékek meghatározása.
+
+**Plot** - adatok kirajzolása pl grafikonok segítségével
+
+**Regresszió** - két vagy több véletlen változó között fennálló kapcsolatot modellezzi, tulajdonságai alapján lehet lineáris vagy nemlineáris
