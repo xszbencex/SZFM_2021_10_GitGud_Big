@@ -58,12 +58,15 @@ Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
 - Funkcionális követelmények:
   - Csak ellenőrzött, hivatalos adatokbázisokból nyert adatokkal dolgozhat a rendszer.
   - Az adatokból előrejelzést egy adott országra vonatkozóan kell készíteni hogy ne igényeljen hosszú időt az adatfeldolgozás
+  - A statisztikákat diagramok és táblázatok segítségével meg kell jeleníteni.
+  - Predikciót kell készíteni különböző tulajdonságokhoz.
 - Nem funkcionális követelmények:
   - A rendszer minimális válaszidőn belül feldolgozza az adatokat.
   - Biztonságos működés.
   - Könnyű karbantarthatóság.
   - Működőképesség, használhatóság.
   - Adatok megbízhatósága és rendelkezésre állása.
+  - Az adatok megtisztítása.
 - Törvényi előírások, szabványok:
   - GDPR-nak, ÁSZF-nek való megfelelés.
 
@@ -108,6 +111,11 @@ FELHASZNÁLÓ:
 
 ***9. Implementációs terv***<br>
 A rendszerünk főként Python nyelven fog készülni. Ezeket a programrészeket, amennyire csak lehet külön boxokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. Képes lesz feldolgozni egy vagy több adathalmazt, és a benne tárolt adatok alapján előrejelzéseket készíteni a felületen.
+A Python legelterjedtem moduljait használjuk. 
+- Az adatok manipulálására, elemzésére és modellezésére, valamint a regresszióoz a pandas modult használjuk.
+- A matplotlib a plotok (diagramok stb.) kirajzolásáért felel
+- A seaborn a statisztikai elemzes és ezekből készülő grafikonok létrehozását teszi lehetővé
+- Valamint a numpy a tömbök kezelésében segít
 
 ***10. Karbantartási terv***<br>
 
