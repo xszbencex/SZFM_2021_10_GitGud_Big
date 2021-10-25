@@ -60,7 +60,7 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 
 ***3. Üzleti folyamatok modellje***<br>
 
-<img src="images/Igényelt_üzleti_folyamatok.png" data-canonical-src=""/>
+<img src="images/uzl-foly-mod.jpg" width=75% height=75% />
 
 ***4. Követelmények***<br>
 Követelmények, funkciók, melyek a megfelelő működéshez elengedhetetlenek.
