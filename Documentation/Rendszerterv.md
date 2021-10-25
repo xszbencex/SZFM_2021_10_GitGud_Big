@@ -131,6 +131,8 @@ A rendszer folyamatos karbantartására nincsen szükség. A kiadást követő f
 
 
 ***11. Tesztterv***<br>
+  A szoftver tesztelésének kezdeti fázisában meg kell győződni a harmadik féltől szerzett adatok valósághűségéről. Mivel egy prognózist állítunk fel a programmal és nem már beigazolódott történéseket jelenítünk meg, ezért a nem megfelelő adatokkal való dolgozás jelentősen fals eredményt adhat a jövőbeli valós eseményekhez képest.
+Ezen hibák elkerülésének érdekében hivatalos oldalról származó, globálisan elfogadott adatokkal dolgozunk. 
 
 ***12. Telepítési terv***<br>
 **Webes alkalmazás:**
