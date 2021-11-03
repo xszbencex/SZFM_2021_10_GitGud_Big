@@ -29,34 +29,34 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 
 | Funkció / Story | Feladat / Task | Prioritás | Becslés | Aktuális becslés | Eltelt idő | Hátralévő idő |
 |-----------------|----------------|-----------|---------|------------------|------------|---------------|
-| Követelmény specifikáció | | 0 | 12 | 12 | 12 | 0 |
-| Funkcionális specifikáció | | 0 | 12 | 12 | 12 | 0 |
-| Rendszerterv | | 0 | 16 | 16 | 16 | 0 |
-| Fejlesztés (Global) | Google Colab | 1 | 2 | 2 | 2 | 0 |
-| Fejlesztés (Global) | Adathalmaz keresése/választása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Szükséges könyvtárak/csomagok importálása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Adathalmaz importálása, annak tesztelése, tisztítása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Különböző típusú esetek csoportosítása (egy konkrét vagy több eset választása) | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | A heti emelkedések elkülönítése | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Megbetegedett és halálesetek számának heti növekedése | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Országonkénti halálozási ráta kiszámítása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Adatok elemzése egy vagy több konkrét ország esetén | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Model létrehozása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Model létrehozása konvoluciós háló segítségével | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Idősoros elemzés a pontos adatok megszerzéséhez | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | A modell inicializálása, amely előrejelzést és előrejelzést tartalmaz | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (Global) | Eredménymentés | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Vizualizációs, gépi tanulós könyvtárak importálása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Koronavírus megfertőzések beolvasása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Koronavírusos halálesetek beolvasása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Koronavírusból felépülések beolvasása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Dátumok átalakítása napokba | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Esetek plotolása dátummal | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Napi esetek kimutatása | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Átlag négyzetes hiba | 1 | 6 | 6 | 0 | 0 |
-| Fejlesztés (India) | Átlag abszolút hiba | 1 | 6 | 6 | 0 | 0 |
-| Tesztelés | | 1 | 16 | 16 | 10 | 6 |
-| Értékelés | | ? | ? | ? | ? | ? |
+| **Követelmény specifikáció** | | 0 | 12 | 12 | 12 | 0 |
+| **Funkcionális specifikáció** | | 0 | 12 | 12 | 12 | 0 |
+| **Rendszerterv** | | 0 | 16 | 16 | 16 | 0 |
+| **Fejlesztés sprint 1** | Google Colab | 1 | 2 | 2 | 2 | 0 |
+| | Adathalmaz keresése/választása | 1 | 6 | 6 | 6 | 0 |
+|  | Szükséges könyvtárak/csomagok importálása | 1 | 6 | 6 | 6 | 0 |
+| | Adathalmaz importálása, annak tesztelése, tisztítása | 1 | 6 | 6 | 6 | 0 |
+| | Különböző típusú esetek csoportosítása (egy konkrét vagy több eset választása) | 1 | 6 | 6 | 6 | 0 |
+| | A heti emelkedések elkülönítése | 1 | 6 | 6 | 6 | 0 |
+| | Megbetegedett és halálesetek számának heti növekedése | 1 | 6 | 6 | 6 | 0 |
+| | Országonkénti halálozási ráta kiszámítása | 1 | 6 | 6 | 6 | 0 |
+| | Adatok elemzése egy vagy több konkrét ország esetén | 1 | 6 | 6 | 6 | 0 |
+| | Model létrehozása | 1 | 6 | 6 | 6 | 0 |
+| | Model létrehozása konvoluciós háló segítségével | 1 | 6 | 6 | 6 | 0 |
+| | Idősoros elemzés a pontos adatok megszerzéséhez | 1 | 6 | 6 | 6 | 0 |
+| | A modell inicializálása, amely előrejelzést és előrejelzést tartalmaz | 1 | 6 | 6 | 6 | 0 |
+| | Eredménymentés | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztés sprint 2** | Adathalmaz bővítése. Tesztelése | 1 | 6 | 6 | 6 | 0 |
+| | Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| | Napi eseten száma egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| | Prophet Model | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzések készítése tartományonként | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzések készítése városonként | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 3**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 4**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 5**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| **Tesztelés** | | 1 | 16 | 16 | 10 | 6 |
+| **Értékelés** | | ? | ? | ? | ? | ? |
 
 ***3. Üzleti folyamatok modellje***<br>
 
