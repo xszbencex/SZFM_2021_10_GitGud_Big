@@ -67,8 +67,8 @@ A statisztika egyszerűsített tervezete:<br>
  
  ***8. Forgatókönyv***<br><br>
  **Szereplők:**<br><br>
-Futási időben két szereplő figyelhető meg:<br>
--**ALKALMAZÁS:** Az első szereplő maga a futó ALKALMAZÁS. (weben/androidon)<br>
+Futási időben két szereplő figyelhető meg:<br><br>
+-**ALKALMAZÁS:** Az első szereplő maga a futó ALKALMAZÁS. (weben/androidon)<br><br>
 -**FELHASZNÁLÓ:** Ezzel van interakcióban a második szereplő, maga a FELHASZNÁLÓ, aki hozzáfér a beolvasott adatokhoz.<br>
 Ha szükséges akkor a statisztikai adatokat le tudja olvasni, más esetben pedig a predikciókhoz is hozzáfér.
 
