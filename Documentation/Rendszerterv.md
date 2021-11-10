@@ -53,8 +53,24 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | | Előrejelzések készítése tartományonként | 1 | 6 | 6 | 6 | 0 |
 | | Előrejelzések készítése városonként | 1 | 6 | 6 | 6 | 0 |
 | **Fejlesztési sprint 3**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
-| **Fejlesztési sprint 4**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
-| **Fejlesztési sprint 5**| Covid-19 esetek egy adott ország esetén (Pakistan) | 1 | 6 | 6 | 6 | 0 |
+| | Bemutató létrehozása | 1 | 6 | 6 | 6 | 0 |
+| | Commentek írása programkód egyes részeihez. | 1 | 6 | 6 | 6 | 0 |
+| |Könyvtárak bővítése. Adathalmaz tesztelése | 1 | 6 | 6 | 6 | 0 |
+| | Összes dátum kiszűrése az adathalmazból| 1 | 6 | 6 | 6 | 0 |
+| | Napi növekedések és mozgóátlagok kiszámítása | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzés készítése | 1 | 6 | 6 | 6 | 0 |
+| | Adatok átalakítása | 1 | 6 | 6 | 6 | 0 |
+| | Modell létrehozása: vector machine | 1 | 6 | 6 | 6 | 0 |
+| | Modell létrehozása: bayesian ridge | 1 | 6 | 6 | 6 | 0 |
+| | Modell létrehozása: polynomial regression | 1 | 6 | 6 | 6 | 0 |
+| | A megerősített esetek számának, a halálozásoknak és a halálozási aránynak (CFR) ábrázolása | 1 | 6 | 6 | 6 | 0 |
+| | Konkrét országok eseteinek vizsgálata | 1 | 6 | 6 | 6 | 0 |
+| | Ország-összehasonlítás | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Support Vector Machine | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Polynomial Regression | 1 | 6 | 6 | 6 | 0 |
+| | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Bayesian Ridge Regression | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 4**| | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 5**| | 1 | 6 | 6 | 6 | 0 |
 | **Tesztelés** | | 1 | 16 | 16 | 10 | 6 |
 | **Értékelés** | | ? | ? | ? | ? | ? |
 
