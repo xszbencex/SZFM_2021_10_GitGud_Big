@@ -69,7 +69,15 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Support Vector Machine | 1 | 6 | 6 | 6 | 0 |
 | | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Polynomial Regression | 1 | 6 | 6 | 6 | 0 |
 | | Előrejelzések a megerősített koronavírusos esetekről világszerte. Modell létrehozása: Bayesian Ridge Regression | 1 | 6 | 6 | 6 | 0 |
-| **Fejlesztési sprint 4**| | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 4** | A halálozási ráta (világszerte) hajlamos a változásra? | 1 | 6 | 6 | 6 | 0 |
+| | A helyreállítási ráta (világszerte) változhat? | 1 | 6 | 6 | 6 | 0 |
+| | A halálozások és a felépülések ábrázolása | 1 | 6 | 6 | 6 | 0 |
+| | Az elhunytak számának összevetése a felépülések számával. | 1 | 6 | 6 | 6 | 0 |
+| | Információszerzés azokról az országokról/régiókról, amelyekben megerősítették a koronavírus-fertőzést | 1 | 6 | 6 | 6 | 0 |
+| | Adattáblák létrehozása: A táblázat tartalmazza a megerősített esetek számát, a halálozást, az előfordulási arányt és a halálozási arányt. | 1 | 6 | 6 | 6 | 0 |
+| | Adattáblák létrehozása: A legfrissebb információk megszerzése azokról a tartományokról/államokról, amelyekben megerősítették a koronavírus-fertőzést | 1 | 6 | 6 | 6 | 0 |
+| | Adattáblák készítése (országonként vizsgáljuk meg az eseteket) | 1 | 6 | 6 | 6 | 0 |
+| | Oszlopdiagram vizualizáció: különböző országok/régiók hogyan viszonyulnak egymáshoz a COVID-esetek tekintetében. | 1 | 6 | 6 | 6 | 0 |
 | **Fejlesztési sprint 5**| | 1 | 6 | 6 | 6 | 0 |
 | **Tesztelés** | | 1 | 16 | 16 | 10 | 6 |
 | **Értékelés** | | ? | ? | ? | ? | ? |
