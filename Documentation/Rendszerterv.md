@@ -78,7 +78,10 @@ Feladatuk a funkciók létrehozása és megvalósítása.
 | | Adattáblák létrehozása: A legfrissebb információk megszerzése azokról a tartományokról/államokról, amelyekben megerősítették a koronavírus-fertőzést | 1 | 6 | 6 | 6 | 0 |
 | | Adattáblák készítése (országonként vizsgáljuk meg az eseteket) | 1 | 6 | 6 | 6 | 0 |
 | | Oszlopdiagram vizualizáció: különböző országok/régiók hogyan viszonyulnak egymáshoz a COVID-esetek tekintetében. | 1 | 6 | 6 | 6 | 0 |
-| **Fejlesztési sprint 5**| | 1 | 6 | 6 | 6 | 0 |
+| **Fejlesztési sprint 5**| Eredménymentés megvalósítása | 1 | 6 | 6 | 6 | 0 |
+| | Tesztelés | 1 | 6 | 6 | 6 | 0 |
+| | Teszt dokumentáció készítése | 1 | 6 | 6 | 6 | 0 |
+| | Times Series megvalósítása | 1 | 6 | 6 | 6 | 0 |
 | **Tesztelés** | | 1 | 16 | 16 | 10 | 6 |
 | **Értékelés** | | ? | ? | ? | ? | ? |
 
